@@ -1,0 +1,29 @@
+{
+  "name": "fast-and-fabulous-generator",
+  "version": "1.0.0",
+  "description": "An app to help create fast and fabulous readme generators.",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kathicks387/Fast-Fabulous-Readme-Generator.git"
+  },
+  "keywords": [
+    "Generator",
+    "Readme"
+  ],
+  "author": "Katrina R. Hicks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kathicks387/Fast-Fabulous-Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/Kathicks387/Fast-Fabulous-Readme-Generator#readme"
+}
