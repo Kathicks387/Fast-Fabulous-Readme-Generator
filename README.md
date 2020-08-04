@@ -19,7 +19,7 @@ To run this program the following packages must be installed: inquirer, init, fs
 ## Usage
 This app can be used to create README files.  Please see video below for a visual display of its use.
 
- https://drive.google.com/file/d/1VsnhPP0weKoeZqq4L2aRmA_XKmDqu168/view?usp=sharing
+ https://drive.google.com/file/d/1VsnhPP0weKoeZqq4L2aRmA_XKmDqu168/view?usp=sharing    
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blueviolet.svg)](https://opensource.org/licenses/MIT)
 
